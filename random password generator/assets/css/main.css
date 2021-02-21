@@ -1,0 +1,45 @@
+body {
+  background-color: #b0c6df;
+}
+
+.content{
+  margin-top: 9x;
+  margin-bottom: 9px;
+  background-color: #b0c6df;
+  padding: 12px;
+  width: 100%;
+}
+
+#display{
+  width: 100%;
+}
+
+
+.bg-dark
+{
+  background-color: #0082e6!important;
+
+}
+
+#slider{
+  width: 100%;
+}
+
+#length{
+  display: inline-block;
+  width: 100px;
+}
+
+.previous_passwords{
+  margin-bottom: 20px;
+}
+
+#back {
+  position: absolute;
+  left: -20%;
+  top: 10%;
+}
+nav{
+  background-color: #0082e6;
+  height: 80px;
+}
